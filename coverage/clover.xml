@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1712933148080" clover="3.2.0">
+  <project timestamp="1712933148081" name="All files">
+    <metrics statements="16" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4" elements="21" coveredelements="17" complexity="0" loc="16" ncloc="16" packages="1" files="2" classes="2"/>
+    <file name="FetchDataWithAPI.tsx" path="G:\coding\vite\react-test-components\src\components\FetchDataWithAPI\FetchDataWithAPI.tsx">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="api.ts" path="G:\coding\vite\react-test-components\src\components\FetchDataWithAPI\api.ts">
+      <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
